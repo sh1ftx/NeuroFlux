@@ -1,5 +1,3 @@
-# Conteúdo do arquivo: /sistema_previsao/sistema_previsao/README.md
-
 # Sistema de Previsão
 
 Este projeto é um sistema de previsão que utiliza uma rede neural para prever valores futuros com base em dados históricos, como vendas, preços de ações ou demanda de energia.
